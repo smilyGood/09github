@@ -17,8 +17,7 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
-    NSLog(@"尼玛");
-    NSLog(@"我去");
+
 }
 
 - (void)didReceiveMemoryWarning {
