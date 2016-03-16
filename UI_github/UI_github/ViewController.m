@@ -19,6 +19,8 @@
     // Do any additional setup after loading the view, typically from a nib.
     NSLog(@"尼玛");
     NSLog(@"我去");
+    NSLog(@"asdasdas");
+    NSLog(@"opsdifsd");
 }
 
 - (void)didReceiveMemoryWarning {
